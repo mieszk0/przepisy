@@ -1,1 +1,2 @@
-# przepisy
+# przepisy :)
+to moj pierwszy projekt
